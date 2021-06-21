@@ -1,0 +1,602 @@
+Physician Name: Tahmina Aafreen, MD
+Physician Specialty: Ob/Gyn
+Practicing Address: Roseville Medical Center
+1600 Eureka Road
+                
+              
+                Roseville,
+                CA 95661
+Phone: n/a
+---
+Physician Name: David Seth Aaronson, MD
+Physician Specialty: Urology
+Practicing Address: Oakland Medical Center
+3600 Broadway
+                
+              
+                Oakland,
+                CA 94611
+Phone: 510-752-1000
+---
+Physician Name: Alexander G. Abad, PT
+Physician Specialty: Physical Therapist
+Practicing Address: San Francisco Mission Bay
+1600 Owens Street
+                
+              
+                San Francisco,
+                CA 94158
+Phone: 415-833-2200
+---
+Physician Name: Faith Cheryle Abalos-Merino, MD
+Physician Specialty: Family Medicine
+Practicing Address: Pinole Medical Offices
+1301 Pinole Valley Road
+                
+              
+                Pinole,
+                CA 94564
+Phone: n/a
+---
+Physician Name: Adan Abarca, MD
+Physician Specialty: Family Medicine
+Practicing Address: Lincoln Medical Offices
+1900 Dresden Drive
+                
+              
+                Lincoln,
+                CA 95648
+Phone: n/a
+---
+Physician Name: Luba Natalie Abascal, MD
+Physician Specialty: Internal Medicine
+Practicing Address: San Francisco Mission Bay
+1600 Owens Street
+                
+              
+                San Francisco,
+                CA 94158
+Phone: 415-833-2200
+---
+Physician Name: Yamilet Abaunza, LCSW
+Physician Specialty: Clinical Social Worker
+Practicing Address: San Leandro Medical Center
+2401 Merced Street
+                
+              
+                San Leandro,
+                CA 94577
+Phone: n/a
+---
+Physician Name: Carolina Abbassi, CRNA
+Physician Specialty: Nurse Anesthetist, Certified Registered
+Practicing Address: San Leandro Medical Center
+2500 Merced Street
+                
+              
+                San Leandro,
+                CA 94577
+Phone: n/a
+---
+Physician Name: Christopher Munro Abbot, MD
+Physician Specialty: Vascular Surgery
+Practicing Address: South Sacramento Medical Ctr.
+6600 Bruceville Road
+                
+              
+                Sacramento,
+                CA 95823
+Phone: n/a
+---
+Physician Name: Michael Kelly Abbott, PsyD
+Physician Specialty: Psychologist
+Practicing Address: Modesto Medical Center
+3800 Dale Road
+                
+              
+                Modesto,
+                CA 95356
+Phone: 1-877-577-2583 (1-877-KP SALUD) (toll free)
+---
+Physician Name: Laura Holliday Abbott, MD
+Physician Specialty: Ob/Gyn
+Practicing Address: Walnut Creek Medical Center
+1515 Newell Avenue
+                
+              
+                Walnut Creek,
+                CA 94596
+Phone: 925-295-4070
+---
+Physician Name: Paul-Andre Charles Abboud, MD
+Physician Specialty: Emergency Medicine
+Practicing Address: Oakland Medical Center
+275 W Macarthur Blvd
+                
+              
+                Oakland,
+                CA 94611
+Phone: 510-752-1000
+---
+Physician Name: Massoud Abdali, MD
+Physician Specialty: Occupational Medicine
+Practicing Address: Modesto Medical Center
+4601 Dale Road
+                
+              
+                Modesto,
+                CA 95356
+Phone: 1-877-577-2583 (1-877-KP SALUD) (toll free)
+---
+Physician Name: Eanas Fayez Abdelwahhab, PA-C
+Physician Specialty: Physician Assistant
+Practicing Address: Walnut Creek Medical Center
+1515 Newell Avenue
+                
+              
+                Walnut Creek,
+                CA 94596
+Phone: 925-295-4070
+---
+Physician Name: Emily Wong Abdinor, PA-C
+Physician Specialty: Physician Assistant
+Practicing Address: Fremont Medical Center
+39400 Paseo Padre Parkway
+                
+              
+                Fremont,
+                CA 94538
+Phone: 510-248-3055
+---
+Physician Name: Hamdi Hussein Abdirahman, MD
+Physician Specialty: Family Medicine
+Practicing Address: Vacaville Medical Center
+1 Quality Drive
+                
+              
+                Vacaville,
+                CA 95688
+Phone: 707-624-2600
+---
+Physician Name: Arebu Tahir Abdu, MD
+Physician Specialty: Neonatology
+Practicing Address: Roseville Medical Center
+1600 Eureka Road
+                
+              
+                Roseville,
+                CA 95661
+Phone: n/a
+---
+Physician Name: Seifedin Habib Abdulkarim, MD
+Physician Specialty: Hospital Medicine
+Practicing Address: Fresno Medical Center
+7300 North Fresno Street
+                
+              
+                Fresno,
+                CA 93720
+Phone: 1-800-262-6663 (toll free)
+---
+Physician Name: Rabiatu Abdullah, MD
+Physician Specialty: Emergency Medicine
+Practicing Address: San Leandro Medical Center
+2500 Merced Street
+                
+              
+                San Leandro,
+                CA 94577
+Phone: n/a
+---
+Physician Name: Rizwana Abdullah, MD
+Physician Specialty: Hospital Medicine
+Practicing Address: Roseville Medical Center
+1600 Eureka Road
+                
+              
+                Roseville,
+                CA 95661
+Phone: n/a
+---
+Physician Name: Angela Miyuki Abe, OD
+Physician Specialty: Optometrist
+Practicing Address: Tracy Medical Offices
+2417 Naglee Rd.
+                
+                   Ste. 8a
+                
+              
+                Tracy,
+                CA 95304
+Phone: 209-839-3300
+---
+Physician Name: Rosanna Abellar, MD
+Physician Specialty: Pathology
+Practicing Address: Oakland Medical Center
+275 W Macarthur Blvd
+                
+              
+                Oakland,
+                CA 94611
+Phone: 510-752-1000
+---
+Physician Name: Anthony Jude Abene, MD
+Physician Specialty: Orthopaedic Surgery
+Practicing Address: San Jose Medical Center
+260 International Circle
+                
+              
+                San Jose,
+                CA 95119
+Phone: 408-362-4740
+---
+Physician Name: Jimmark Ventura Abenojar, MD
+Physician Specialty: Psychiatry: Child/Adolescent
+Practicing Address: Vacaville Medical Center
+1 Quality Drive
+                
+              
+                Vacaville,
+                CA 95688
+Phone: 707-624-2600
+---
+Physician Name: Olana Aberra, MD
+Physician Specialty: Hospital Medicine
+Practicing Address: South Sacramento Medical Ctr.
+6600 Bruceville Road
+                
+              
+                Sacramento,
+                CA 95823
+Phone: n/a
+---
+Physician Name: Stella Sarang Abhyankar, MD
+Physician Specialty: Hospital Medicine
+Practicing Address: Redwood City Medical Center
+1150 Veterans Blvd
+                
+              
+                Redwood City,
+                CA 94063
+Phone: 650-299-2000
+---
+Physician Name: Ma Irene Dizon Abillar, MD
+Physician Specialty: Pediatrics
+Practicing Address: Stockton Medical Center
+7373 West Lane
+                
+              
+                Stockton,
+                CA 95210
+Phone: 1-866-957-6672 (toll free)
+---
+Physician Name: Brian P. Ablang, PT
+Physician Specialty: Physical Therapist
+Practicing Address: San Francisco Mission Bay
+1600 Owens Street
+                
+              
+                San Francisco,
+                CA 94158
+Phone: 415-833-2200
+---
+Physician Name: Lyn Susan Aborn, MD
+Physician Specialty: Emergency Medicine
+Practicing Address: Redwood City Medical Center
+1100 Veterans Blvd
+                
+              
+                Redwood City,
+                CA 94063
+Phone: 650-299-2000
+---
+Physician Name: Iype Abraham, MD
+Physician Specialty: Internal Medicine
+Practicing Address: San Jose Medical Center
+280 Hospital Pkway
+                
+              
+                San Jose,
+                CA 95119
+Phone: 408-362-4740
+---
+Physician Name: Oren Nissan Abramson, MD
+Physician Specialty: Pediatric Gastroenterology
+Practicing Address: Santa Clara Homestead Med Cntr
+710 Lawrence Expy
+                
+              
+                Santa Clara,
+                CA 95051
+Phone: n/a
+---
+Physician Name: Vera Britto Abreu, MFT
+Physician Specialty: Marriage & Family Therapist
+Practicing Address: Roseville Medical Center
+1660 E Roseville Parkway
+                
+              
+                Roseville,
+                CA 95661
+Phone: n/a
+---
+Physician Name: Anel Moises Abreu, DO
+Physician Specialty: Orthopaedic Surgery
+Practicing Address: Modesto Medical Center
+4601 Dale Road
+                
+              
+                Modesto,
+                CA 95356
+Phone: 1-877-577-2583 (1-877-KP SALUD) (toll free)
+---
+Physician Name: Adriana Abril, MFT
+Physician Specialty: Marriage & Family Therapist
+Practicing Address: Walnut Creek Medical Center
+710 S. Broadway Street
+                
+              
+                Walnut Creek,
+                CA 94596
+Phone: 925-295-4070
+---
+Physician Name: Noman Absar, MD
+Physician Specialty: Critical Care Medicine
+Practicing Address: Vallejo Medical Center
+975 Sereno Drive
+                
+              
+                Vallejo,
+                CA 94589
+Phone: 707-651-1025
+---
+Physician Name: Minaleshoa Hailu Abye, MD
+Physician Specialty: Pediatrics
+Practicing Address: Stockton Medical Center
+7373 West Lane
+                
+              
+                Stockton,
+                CA 95210
+Phone: 1-866-957-6672 (toll free)
+---
+Physician Name: Joel Christopher Acab, MD
+Physician Specialty: Internal Medicine
+Practicing Address: Park Shadelands Medical Office
+320 Lennon Lane
+                
+              
+                Walnut Creek,
+                CA 94598
+Phone: 925-906-2040
+---
+Physician Name: Radha Achalu, MD
+Physician Specialty: Internal Medicine
+Practicing Address: Santa Clara Homestead Med Cntr
+710 Lawrence Expy
+                
+              
+                Santa Clara,
+                CA 95051
+Phone: n/a
+---
+Physician Name: Jayaprada Achanta, MD
+Physician Specialty: Anesthesiology
+Practicing Address: San Leandro Medical Center
+2500 Merced Street
+                
+              
+                San Leandro,
+                CA 94577
+Phone: n/a
+---
+Physician Name: Malathi Acharya, MD
+Physician Specialty: Internal Medicine
+Practicing Address: Fremont Medical Center
+39400 Paseo Padre Parkway
+                
+              
+                Fremont,
+                CA 94538
+Phone: 510-248-3055
+---
+Physician Name: Saviour Achilike, MD
+Physician Specialty: Neurology
+Practicing Address: Modesto Medical Center
+4601 Dale Road
+                
+              
+                Modesto,
+                CA 95356
+Phone: 1-877-577-2583 (1-877-KP SALUD) (toll free)
+---
+Physician Name: Julia Deanne Acker-Nielsen, PT
+Physician Specialty: Physical Therapist
+Practicing Address: San Jose Skyport Med Offices
+1721 Technology Dr.
+                
+              
+                San Jose,
+                CA 95110
+Phone: n/a
+---
+Physician Name: Seth Ackuayi, MD
+Physician Specialty: Hospital Medicine
+Practicing Address: Manteca Medical Center
+1777 W. Yosemite Ave.
+                
+              
+                Manteca,
+                CA 95337
+Phone: 209-825-3700
+---
+Physician Name: Nivia Magdalena Acosta, MD
+Physician Specialty: Ob/Gyn
+Practicing Address: Pleasanton Medical Offices
+7601 Stoneridge Drive
+                
+              
+                Pleasanton,
+                CA 94588
+Phone: 925-847-5050
+---
+Physician Name: Anthony Michael Acquaviva, MD
+Physician Specialty: Urology
+Practicing Address: San Rafael Medical Center
+99 Montecillo Road
+                
+              
+                San Rafael,
+                CA 94903
+Phone: 415-444-2000
+---
+Physician Name: Jhonnard James Salvador Acuna, CRNA
+Physician Specialty: Nurse Anesthetist, Certified Registered
+Practicing Address: Vallejo Medical Center
+975 Sereno Drive
+                
+              
+                Vallejo,
+                CA 94589
+Phone: 707-651-1025
+---
+Physician Name: Rodney Ledesma Acuna, MD
+Physician Specialty: Family Medicine
+Practicing Address: Rancho Cordova Medical Offices
+10725 International Drive
+                
+              
+                Rancho Cordova,
+                CA 95670
+Phone: n/a
+---
+Physician Name: Walter Paul Acuna, MD
+Physician Specialty: Internal Medicine
+Practicing Address: Oakland Medical Center
+3801 Howe Street
+                
+              
+                Oakland,
+                CA 94611
+Phone: 510-752-1000
+---
+Physician Name: Basil W. Adad, MD
+Physician Specialty: Head And Neck Surgery
+Practicing Address: Walnut Creek Medical Center
+1515 Newell Avenue
+                
+              
+                Walnut Creek,
+                CA 94596
+Phone: 925-295-4070
+---
+Physician Name: Gina Marie Adair, MD
+Physician Specialty: Family Medicine
+Practicing Address: Tracy Medical Offices
+2185 West Grant Line Road
+                
+              
+                Tracy,
+                CA 95377
+Phone: 209-839-3300
+---
+Physician Name: Nathan John Adams, CRNA
+Physician Specialty: Nurse Anesthetist, Certified Registered
+Practicing Address: Fresno Medical Center
+7300 N. Fresno Street
+                
+              
+                Fresno,
+                CA 93720
+Phone: 1-800-262-6663 (toll free)
+---
+Physician Name: Tyson Ray Adams, DO
+Physician Specialty: Family Medicine
+Practicing Address: Sacramento Medical Center
+1650 Response Road
+                
+              
+                Sacramento,
+                CA 95815
+Phone: n/a
+---
+Physician Name: Chelsea Lynn Adams, PT
+Physician Specialty: Physical Therapist
+Practicing Address: South Sacramento Medical Ctr.
+6600 Bruceville Road
+                
+              
+                Sacramento,
+                CA 95823
+Phone: n/a
+---
+Physician Name: Joseph Daniel Adams, LAC
+Physician Specialty: Licensed Acupuncturist
+Practicing Address: San Francisco Medical Center
+4141 Geary Blvd
+                
+              
+                San Francisco,
+                CA 94118
+Phone: 415-833-2000
+---
+Physician Name: Paula Jean Adams, LCSW
+Physician Specialty: Clinical Social Worker
+Practicing Address: Folsom Medical Offices
+2155 Iron Point Road
+                
+              
+                Folsom,
+                CA 95630
+Phone: 916-817-5000
+---
+Physician Name: Argentina Celia Adams, CRNA
+Physician Specialty: Nurse Anesthetist, Certified Registered
+Practicing Address: Santa Clara Homestead Med Cntr
+700 Lawrence Expwy
+                
+              
+                Santa Clara,
+                CA 95051
+Phone: n/a
+---
+Physician Name: Eloa Shepherd Adams, MD
+Physician Specialty: Pediatric Critical Care
+Practicing Address: Oakland Medical Center
+275 W Macarthur Blvd
+                
+              
+                Oakland,
+                CA 94611
+Phone: 510-752-1000
+---
+Physician Name: Brett Lee Adams, MD
+Physician Specialty: Head And Neck Surgery
+Practicing Address: South Sacramento Medical Ctr.
+7300 Wyndham Drive
+                
+              
+                Sacramento,
+                CA 95823
+Phone: n/a
+---
+Physician Name: Monique Marie Adams, PT
+Physician Specialty: Physical Therapist
+Practicing Address: Delta Fair Medical Offices
+3400 Delta Fair Blvd
+                
+              
+                Antioch,
+                CA 94509
+Phone: 925-779-5090
+---
+Physician Name: Peter J. Adams, PhD
+Physician Specialty: Psychologist
+Practicing Address: Rancho Cordova Medical Offices
+10725 International Drive
+                
+              
+                Rancho Cordova,
+                CA 95670
+Phone: n/a
+---
